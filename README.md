@@ -46,7 +46,7 @@ chmod +x sync_pihole.sh
 
 Run manually:
 ```bash
-./sync_pihole.sh
+./teleporter_get.sh
 ```
 
 Or schedule via cron (on the local Pi-hole host):
